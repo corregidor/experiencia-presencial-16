@@ -90,5 +90,8 @@ when 3
 when 4
   continuar = false
 
+else
+  puts 'La opción ingresada no es válida. Favor intente nuevamente'
+
 end
 end
