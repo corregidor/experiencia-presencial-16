@@ -1,0 +1,4 @@
+El promedio de David es: 3.6
+El promedio de Gonzalo es: 4.2
+El promedio de Mai es: 7.6
+El promedio de JP es: 10.0
