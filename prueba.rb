@@ -35,6 +35,7 @@ when 1
   file = File.open('promedios.txt', 'w')
   arreglo_totales.each do |alumno_con_promedio|
     file.puts "El promedio de #{alumno_con_promedio.first} es: #{alumno_con_promedio.last}"
+    #al menos no se copien los nombres de las variables!!!
   end
   puts 'Se ha creado un archivo llamado promedios.txt con los promedios de cada alumno'
   file.close
